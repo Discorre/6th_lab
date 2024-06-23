@@ -1,0 +1,3 @@
+﻿  SecondZ.cpp
+C:\Users\egori\projectes\SixthLab\SecondZ.cpp(249,23): warning C4101: rd: неиспользованная локальная переменная
+  SixthLab.vcxproj -> C:\Users\egori\projectes\SixthLab\x64\Debug\SixthLab.exe
